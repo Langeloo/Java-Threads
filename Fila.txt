@@ -1,0 +1,8 @@
+Arroz;15000;8;Chocolate;6000;6;Jamón;13000;5;Crema dental;2800;7;
+Ponqué;3000;5;Panela;12500;6;Cereales;15000;8;Yogurt;13200;5;
+Papel Higienico;18000;8;Lentejas;3500;6;Arroz;15000;7;Gaseosa;4000;5;
+Galletas;5000;6;Pan Tajado;3000;8;Chocolate;6000;6;Paca de Leche;16400;7;
+Paca de leche;16400;7;Cerveza;12500;8;Huevos;13000;8;Pastas;4750;6;
+Aceite;27300;6;Salsa de Tomate;4200;5;Frijol;4100;5;Cereales;15000;8;
+Galletas;5000;6;Pan Tajado;3000;8;Chocolate;6000;6;Paca de Leche;16400;7;
+Ponqué;3000;5;Panela;12500;6;Cereales;15000;8;Yogurt;13200;5;
